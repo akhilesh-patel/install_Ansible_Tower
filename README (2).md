@@ -73,6 +73,8 @@ Step 4: Configure Ansible Tower
 
 
 
+![Screenshot (826)](https://user-images.githubusercontent.com/64592542/146016212-48e28ddf-6433-4b4a-a896-bb4bf3581102.png)
+
 
 
 
