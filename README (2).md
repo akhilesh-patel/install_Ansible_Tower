@@ -26,6 +26,7 @@ sudo yum -y install ansible vim curl
 
 # Step 2: Download Ansible Tower archive
 mkdir /tmp/tower && cd  /tmp/tower
+
 curl -k -O https://releases.ansible.com/ansible-tower/setup/ansible-tower-setup-latest.tar.gz
 
 # Extract downloaded archive.
