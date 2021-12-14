@@ -53,7 +53,12 @@ roles
 
 vim inventory
 
-ss  dalo 
+
+![Screenshot (820)](https://user-images.githubusercontent.com/64592542/146015281-61c8eb53-65b7-4cc4-87ec-1c15de28c8a2.png)
+![Screenshot (821)](https://user-images.githubusercontent.com/64592542/146015291-b6b413c8-cd5a-4e0b-bcf5-59d2406d98d1.png)
+![Screenshot (822)](https://user-images.githubusercontent.com/64592542/146015299-c59dc218-e170-4fc8-996e-ca9ff7503a99.png)
+![Screenshot (823)](https://user-images.githubusercontent.com/64592542/146015302-99377eb2-45a0-4d96-ae61-f12733645391.png)
+
 
 ...................................
 
