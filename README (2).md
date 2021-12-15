@@ -86,7 +86,7 @@ Step 4: Configure Ansible Tower
 
 
 ## 🚀 About Me
-I'm a devops engineer as a intern in mernplus technologoy...
+I'm a devops engineer as a intern in mernplus technology...
 
 
 ## Acknowledgements
